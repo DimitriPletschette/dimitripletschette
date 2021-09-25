@@ -1,6 +1,6 @@
 Hi Team 👋<br>
-🔭 I’m currently working on Automation, DevOps & Release <br>
-🌱 I’m currently learning ITIL v.4 (started a long time ago)<br>
+🔭 I’m currently working on Release Management <br>
+🌱 I’m currently learning some things on Lean IX <br>
 👯 I’m looking to collaborate on CSI & Automation<br>
 🤔 I’m looking for help with "Miro Dark Mode" https://bit.ly/3w2azqm<br>
 💬 Ask me anything about Japan <br>
